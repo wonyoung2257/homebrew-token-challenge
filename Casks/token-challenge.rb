@@ -1,6 +1,6 @@
 cask "token-challenge" do
-  version "1.0.0"
-  sha256 "96f47759941b8e78573bd287ed0492fa228e809466f94afcd7fbed65503bafed"
+  version "1.0.1"
+  sha256 "a6e350a6b4aa50c4521982a1df5ae9a622f489037eef6ebf0353d1c8a96e8ead"
 
   url "https://github.com/wonyoung2257/token-challenge/releases/download/v#{version}/TokenChallenge-#{version}.zip"
   name "TokenChallenge"
